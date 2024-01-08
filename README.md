@@ -8,7 +8,7 @@ This repository lists the braille commands for all the refreshable braille displ
 
 #### Refreshable Braille Displays:
 
-* Humanware Brailliant BI 40X
+* [Humanware Brailliant BI 40X](https://github.com/DeafblindEngineer/braille-commands/blob/main/brailliantbi40x.md)
 * Humanware Brailliant B 80
 * Freedom Scientific Focus 40 Blue (5th Gen.)
 * Freedom Scientific Focus 80 Blue (5th Gen.)

@@ -1,6 +1,6 @@
 ### Braille Commands
 
-The repository lists the braille commands for all the refreshable braille displays I use on my Linux Rigs with the following assistive-technology stack:
+This repository lists the braille commands for all the refreshable braille displays I use on my Linux Rigs with the following assistive-technology stack:
 
 * Orca screen reader program in graphical-mode
 * Speakup a kernel-based screen reader for the Linux console in text-mode

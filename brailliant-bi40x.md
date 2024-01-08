@@ -18,9 +18,9 @@ The front section of the braille display consists of 40-cells with a cursor rout
 
 #### Front Edge
 
-On the front edge of the display are five buttons: four rectangular thumb keys and one round button. From left to right, the buttons are as follows:
+On the front edge of the display are five buttons: four rectangular thumb keys and one round button. From left to right, the keys and button are as follows:
 
-* Outer Right Thumb Key (Previous Thumb) Key
+* Outer Right Thumb (Previous Thumb) Key
 * Inner Left Thumb (Left Thumb) Key 
 *  Home Button
 * Inner Right Thumb (Right Thumb) Key

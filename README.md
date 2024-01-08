@@ -6,7 +6,7 @@ This repository lists the braille commands for all the refreshable braille displ
 * Speakup a kernel-based screen reader for the Linux console in text-mode
 * BRLTTY daemon to power the Brailliant BI 40X
 
-#### Refreshable Braille Displays
+#### Refreshable Braille Displays:
 
 * Humanware Brailliant BI 40X
 * Humanware Brailliant B 80

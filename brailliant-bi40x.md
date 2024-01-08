@@ -8,7 +8,7 @@ Braille Commands for Linux assistive-technology stack:
 
 ### Orientation of Brailliant BI 40X
 
-The Brailliant BI 40X is a 40-cell refreshable braille display, with a perkins-style keyboard, six commands keys (three either side of the display), four thumb keys and a home button.
+The Brailliant BI 40X is a 40-cell refreshable braille display, with a perkins-style keyboard, two space bars, six commands keys (three either side of the display), four thumb keys and a home button.
 
 #### The Top Face
 

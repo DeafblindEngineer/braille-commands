@@ -25,32 +25,7 @@ On the front edge of the display are four rollbars. From left to right, the roll
 * R3 (up, press, down)
 * R4 (up, press, down)
 
-The Braille keyboard, command keys, and thumb keys can be used to perform navigation commands:
-
-
-
-Display Keys: D1, D2, D3, D4
-Status Buttons: C1, C2, C3, C4
-Status Keys: S1, S2, S3, S4
-Rollbar: R1, R2, R3, R4
-
-Notes
-There are three display keys at each end of the braille cells. From top to bottom:
-The three at the left are named Display1, Display2, and Display3.
-The three at the right are named Display4, Display5, and Display6.
-
-The wheels on the display module are identified by their ordinal position
-(first through fourth) from the left.
-
-The larger controls on the status module, from left to right,
-are named StatusButton1 through StatusButton4. S1 S2 S3 S4
-
-The smaller controls on the status module, from left to right,
-are named StatusKey1 through StatusKey4.
-
-RoutingKey refers to any of the keys immediately behind the braille cells.
-
-4 roll-bars with key
+The display keys, command keys, and rollbars can be used to perform navigation commands:
 
 #### Default Bindings
 

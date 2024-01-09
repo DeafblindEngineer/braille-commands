@@ -4,7 +4,7 @@ Braille Commands for Linux assistive-technology stack:
 
 * Orca screen reader program in graphical-mode
 * Speakup a kernel-based screen reader for the Linux console in text-mode
-* BRLTTY daemon to power the Brailliant BI 40X
+* BRLTTY daemon to power the Brailliant B 80
 
 ### Orientation of Brailliant B 80
 

@@ -23,14 +23,14 @@ The front section of the braille display consists of 40-cells with a cursor rout
 
 On the front edge of the display are five buttons: eight thumb keys. From left to right, the buttons are as follows:
 
-* Left Panning button
-* Left Rocker bar
-* Left Selector button
-* Left Shift button
-* Right Shift button
-* Right Selector button
-* Right Rocker bar
-* Right Panning button
+* Left Panning Button
+* Left Rocker Bar
+* Left Selector Button
+* Left Shift Button
+* Right Shift Button
+* Right Selector Button
+* Right Rocker Bar
+* Right Panning Button
 
 The Braille keyboard, command keys, and thumb keys can be used to perform navigation commands:
 

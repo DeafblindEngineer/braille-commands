@@ -1,3 +1,11 @@
+### Freedom Scientific Focus 80 Blue (5th Gen.)
+
+Braille Commands for Linux assistive-technology stack:
+
+* Orca screen reader program in graphical-mode
+* Speakup a kernel-based screen reader for the Linux console in text-mode
+* BRLTTY daemon to power the Focus 80 Blue (5th Gen.)
+
 #### Default Bindings
 
 **Special Modes**

@@ -1,3 +1,11 @@
+### Freedom Scientific Focus 40 Blue (5th Gen.)
+
+Braille Commands for Linux assistive-technology stack:
+
+* Orca screen reader program in graphical-mode
+* Speakup a kernel-based screen reader for the Linux console in text-mode
+* BRLTTY daemon to power the Focus 40 Blue (5th Gen.)
+
 ### Orientation of Focus 40 Blue (5th Gen.)
 
 The Focus 40 Blue (5th Gen.) is a 40-cell refreshable braille display, with a perkins-style keyboard, a menu button, nav rockers, nav mode buttons, panning buttons, rocker bars, selector and shift buttons.
